@@ -1,0 +1,3 @@
+cradle:
+  cabal:
+    component: "lib:oka-sock-it-to-me"
